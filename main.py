@@ -1,3 +1,8 @@
-x = int(input("Digite um valor: "))
-y = int(input("outro valor: "))
-print(x + y)
+nome = input("Digite seu nome: ")
+salario = int(input("Digite seu salario: "))
+bonus = float(input("Digite seu bônus: "))
+bonus_final = 1000 + (salario * bonus)
+
+print(f"O usuario {nome} possui um bonus de {bonus_final}")
+
+
