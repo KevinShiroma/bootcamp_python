@@ -1,5 +1,3 @@
-print('Hello Woooorld')
-
-lista = [1, 2, 3]
-
-print(lista[0])
+x = int(input("Digite um valor: "))
+y = int(input("outro valor: "))
+print(x + y)
