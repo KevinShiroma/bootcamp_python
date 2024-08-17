@@ -1,7 +1,8 @@
+# Lendo um CSV
 import csv
 import pandas as pd # type: ignore
 
-caminho_arquivo: str = "exemplo.csv"
+caminho_arquivo: str = "World Largest Cities by Population 2024.csv"
 
 arquivo_csv = []
 
