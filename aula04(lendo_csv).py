@@ -2,7 +2,7 @@
 import csv
 import pandas as pd # type: ignore
 
-caminho_arquivo: str = "World Largest Cities by Population 2024.csv"
+caminho_arquivo: str = "tabela04.csv"
 
 arquivo_csv = []
 
