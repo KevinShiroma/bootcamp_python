@@ -1,0 +1,7 @@
+2024-08-24 12:40:25.369 | INFO     | __main__:soma:6 - 2
+2024-08-24 12:40:25.369 | INFO     | __main__:soma:7 - 3
+2024-08-24 12:40:25.370 | INFO     | __main__:soma:8 - 5
+2024-08-24 12:47:29.276 | INFO     | __main__:soma:9 - 5
+2024-08-24 12:47:46.116 | CRITICAL | __main__:soma:12 - Digite um numero válido
+2024-08-24 13:00:58.223 | CRITICAL | __main__:soma:25 - Digite um numero válido
+2024-08-24 13:01:25.230 | CRITICAL | __main__:soma:25 - Digite um numero válido
