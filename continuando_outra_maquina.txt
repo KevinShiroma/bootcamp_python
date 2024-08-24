@@ -1,0 +1,11 @@
+Para continuar de outra máquina faça os seguintes passos:
+1) Instale o git
+2) Configure o git:
+    git config --global user.name "Seu Nome"
+    git config --global user.email "seuemail@exemplo.com"
+3) clone o respositório git clone https://github.com/KevinShiroma/bootcamp_python
+4) navegue até o respositório 'cd bootcamp_python'
+5) faça alguma alteração e utilize os comandos para testar se está tudo configurado corretamente
+    git add .
+    git commit -m "comentario"
+    git push
